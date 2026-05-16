@@ -4,6 +4,8 @@
 
 ## English
 
+SonaMinds is a product by Smallsoft.
+
 SonaMinds helps experts, creators, consultants, educators, and knowledge-based businesses turn their own materials into controlled AI Assistants that clients, students, members, or visitors can ask.
 
 Unlike a general chatbot, a SonaMinds Assistant is designed to answer from the expert's own knowledge structure: selected documents, courses, FAQs, templates, transcripts, method explanations, service boundaries, access rules, and citations.
@@ -55,6 +57,8 @@ SonaMinds is designed for controlled usefulness, not unlimited answers. It narro
 SonaMinds does not replace the expert. Human judgment remains necessary for final professional advice, sensitive decisions, regulated services, and high-impact situations such as legal, medical, financial, safety, or accountability-related matters.
 
 ## 中文
+
+SonaMinds 是 Smallsoft 旗下产品。
 
 SonaMinds 帮助专家、创作者、顾问、教育者和知识型业务，把自己的材料转化为可控的 AI Assistant，让客户、学生、会员或访客可以直接提问。
 
