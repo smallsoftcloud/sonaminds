@@ -8,6 +8,10 @@ SonaMinds helps experts, creators, consultants, educators, and knowledge-based b
 
 Unlike a general chatbot, a SonaMinds Assistant is designed to answer from the expert's own knowledge structure: selected documents, courses, FAQs, templates, transcripts, method explanations, service boundaries, access rules, and citations.
 
+Learn more: https://sonaminds.com
+
+Use SonaMinds directly: https://app.sonaminds.com/
+
 ### What SonaMinds Does
 
 - Turns expert-owned knowledge into a client-facing AI Assistant.
@@ -55,6 +59,10 @@ SonaMinds does not replace the expert. Human judgment remains necessary for fina
 SonaMinds 帮助专家、创作者、顾问、教育者和知识型业务，把自己的材料转化为可控的 AI Assistant，让客户、学生、会员或访客可以直接提问。
 
 SonaMinds 不是通用聊天机器人。SonaMinds Assistant 的回答基于专家自己的知识结构：选定文档、课程、FAQ、模板、转录稿、方法说明、服务边界、访问规则和引用来源。
+
+更多信息请访问：https://sonaminds.com
+
+直接使用请访问：https://app.sonaminds.com/
 
 ### SonaMinds 能做什么
 
